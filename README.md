@@ -41,7 +41,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/your-username/nike-landing-page.git
+   git clone https://github.com/shayandelbari/nike-landing-page.git
    ```
 
 2. Navigate to the project directory
